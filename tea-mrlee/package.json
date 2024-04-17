@@ -10,7 +10,8 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.1"
+    "next": "14.2.1",
+    "tea-laoli2024": "1.0.3"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -20,7 +21,8 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.1"
+    "eslint-config-next": "14.2.1",
+    "tea-laoli2024": "^1.0.3"
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "index.js",
